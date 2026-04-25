@@ -1,0 +1,6 @@
+@s2_m4_asp_net_supabase_HostAddress = http://localhost:5095
+
+GET {{s2_m4_asp_net_supabase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
